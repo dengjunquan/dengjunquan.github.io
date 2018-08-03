@@ -1,13 +1,10 @@
 ---
-title: "Tutorial 1 on Relevant Topic in Your Field"
+title: "MmWave channel estimation via atomic norm minimization for multi-user hybrid precoding"
 collection: talks
-type: "Tutorial"
-permalink: /talks/2013-03-01-tutorial-1
-venue: "UC-Berkeley Institute for Testing Science"
-date: 2013-03-01
-location: "Berkeley CA, USA"
+type: "Talk"
+permalink: /talks/WCNC2017_talk
+venue: "2018 IEEE Wireless Communications and Networking Conference (WCNC)"
+date: 2018-04-17
+location: "Barcelona, Spain"
 ---
-
-[More information here](http://exampleurl.com)
-
-This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+[Check the sildes here](http://dengjunquan.github.io/files/slides/Deng_PHY20.pdf)

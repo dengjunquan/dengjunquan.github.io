@@ -1,11 +1,10 @@
 ---
-title: "Conference Proceeding talk 3 on Relevant Topic in Your Field"
+title: "D2D relay management in multi-cell networks"
 collection: talks
-type: "Conference proceedings talk"
-permalink: /talks/2014-03-01-talk-3
-venue: "Testing Institute of America 2014 Annual Conference"
-date: 2014-03-01
-location: "Los Angeles, CA"
+type: "Talk"
+permalink: /talks/ICC2017_talk
+venue: "2017 IEEE International Conference on Communications (ICC)"
+date: 2017-05-22
+location: "Paris, France"
 ---
-
-This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+[Check the sildes here](http://dengjunquan.github.io/files/slides/ICC2017_deng_slides.pdf)

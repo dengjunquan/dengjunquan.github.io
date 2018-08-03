@@ -1,13 +1,10 @@
 ---
-title: "Talk 2 on Relevant Topic in Your Field"
+title: "Scalable two-hop relaying for mmWave networks"
 collection: talks
 type: "Talk"
-permalink: /talks/2014-02-01-talk-2
-venue: "London School of Testing"
-date: 2014-02-01
-location: "London, UK"
+permalink: /talks/EUCNC2017_talk
+venue: "2017 European Conference on Networks and Communications (EuCNC)"
+date: 2017-05-22
+location: "Oulu, Finland"
 ---
-
-[More information here](http://example2.com)
-
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+[Check the sildes here](http://dengjunquan.github.io/files/slides/EuCNC2017_deng_slides.pdf)
