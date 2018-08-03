@@ -7,4 +7,4 @@ venue: " 2016 IEEE 27th Annual International Symposium on Personal, Indoor, and 
 date: 2016-09-05
 location: "Valencia, Spain"
 ---
-[Check the sildes here](http://dengjunquan.github.io/files/sildes/PIMRC2016.pdf)
+[Check the sildes here](http://dengjunquan.github.io/files/sildes/IWSON_deng_slides.pdf)
