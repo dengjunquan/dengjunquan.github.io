@@ -19,7 +19,7 @@ Work experience
 ======
 * Fall 2015: Teaching Assistant
   * Aalto University
-  * Duties included: course excise 
+  * Duties included: course exercise 
   * Supervisor: Professor Olav Tirkkonen
 
 * Fall 2014 - now: Research Assistant
@@ -51,6 +51,11 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service 
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer of IEEE Transactions on Wireless Communications
+* Reviewer of IEEE Communication Magazine
+* Reviewer of IEEE Wireless Communications Magazine
+* Reviewer of IEEE Globecom
+* Reviewer of IEEE WCNC
+* Reviewer of IEEE VTC
