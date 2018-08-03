@@ -67,3 +67,12 @@ Service
 * Reviewer of IEEE VTC
 * Reviewer of IEEE ICC
 * etc.
+
+Awards
+======
+* 2014 China Scholarship Council (CSC) Scholarship
+* 2012 Innovation Program for Excellent Graduate Students Grants, National University of Defense Technology (< 5%)
+* 2011 Outstanding Academic Papers by Undergraduate Students, Tsinghua University (<5%)
+* 2010 Outstanding Academic Scholarship, Tsinghua University
+* 2009 Outstanding Academic Scholarship, Tsinghua University
+* 2006 First Prize in Engineering, 21th China Adolescents Science & Technology Innovation Contest(CASTIC), Macao
