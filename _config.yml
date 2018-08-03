@@ -222,10 +222,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _photos
   - scope:
       path: ""
-      type: portfolio
+      type: _photos
     values:
       layout: single
       author_profile: true
