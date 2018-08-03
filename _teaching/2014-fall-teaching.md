@@ -6,3 +6,4 @@ permalink: /teaching/2014-winter-teaching
 venue: "Aalto University, Department of Communications and Networking"
 date: 2014-12
 location: "Espoo, Finland"
+---
