@@ -2,7 +2,7 @@
 title: "Resource Allocation and Interference Management for Opportunistic Relaying in Integrated mmWave/sub-6 GHz 5G Networks"
 collection: publications
 permalink: /publication/ComMag2017
-date: 2017-06
+date: 2017-06-01
 venue: 'IEEE Communications Magazine'
 paperurl: 'http://dengjunquan.github.io/files/Commag2017.pdf'
 citation: '<b>Junquan Deng</b>,Olav Tirkkonen,Ragnar Freij-Hollanti,Tao Chen,Navid Nikaein <i> IEEE Communications Magazine,Volume: 55, Issue: 6, 2017.</i> <b>IEEE COMMAG</b>.'

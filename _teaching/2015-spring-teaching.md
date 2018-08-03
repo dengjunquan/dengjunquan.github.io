@@ -4,6 +4,6 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching
 venue: "Aalto University, Department of Communications and Networking"
-date: 2015-02
+date: 2015-02-01
 location: "Espoo, Finland"
 ---
