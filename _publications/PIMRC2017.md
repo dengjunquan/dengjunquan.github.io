@@ -1,7 +1,7 @@
 ---
 title: "Hierarchical network abstraction for HetNet coordination"
 collection: publications
-permalink: /publication/WCNC2018
+permalink: /publication/PIMRC2017
 date: 2017-10-08
 venue: '2017 IEEE 28th Annual International Symposium on Personal, Indoor, and Mobile Radio Communications (PIMRC)'
 paperurl: 'http://dengjunquan.github.io/files/PIMRC2017.pdf'
