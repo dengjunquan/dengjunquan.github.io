@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/GW2017_talk
 venue: "Emerging Technologies for 5G Wireless Cellular Networks (ET5G)"
-date: 20175-12-06
+date: 2017-12-06
 location: "San Diego, CA, USA"
 ---
 [Check the sildes here](http://dengjunquan.github.io/files/slides/gw15_deng.pdf)
