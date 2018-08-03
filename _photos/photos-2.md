@@ -1,7 +1,17 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Some photos I took in Otaniemi Campus, Espoo"
+excerpt: "Otaniemi Fall and Winter <br/><img src='/images/myphotos/a.jpg'>"
+excerpt: "Otaniemi Fall and Winter <br/><img src='/images/myphotos/b.jpg'>"
+excerpt: "Otaniemi Fall and Winter <br/><img src='/images/myphotos/c.jpg'>"
+excerpt: "Otaniemi Fall and Winter <br/><img src='/images/myphotos/d.jpg'>"
+excerpt: "Otaniemi Fall and Winter <br/><img src='/images/myphotos/e.jpg'>"
+excerpt: "Otaniemi Fall and Winter <br/><img src='/images/myphotos/f.jpg'>"
+excerpt: "Otaniemi, Aalto main building <br/><img src='/images/myphotos/aalto.jpg'>"
+excerpt: "Otaniemi, Trees <br/><img src='/images/myphotos/tree.jpg'>"
+excerpt: "Otaniemi, Seaside <br/><img src='/images/myphotos/seaside.jpg'>"
+excerpt: "Otaniemi, Seaside <br/><img src='/images/myphotos/grass.jpg'>"
+excerpt: "Otaniemi, Seaside <br/><img src='/images/myphotos/sea.jpg'>"
+excerpt: "Helsinki, Night <br/><img src='/images/myphotos/night.jpg'>"
+excerpt: "Helsinki, Winter <br/><img src='/images/myphotos/house.jpg'>"
 collection: photos
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
