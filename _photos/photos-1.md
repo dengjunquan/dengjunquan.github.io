@@ -1,5 +1,5 @@
 ---
-title: "@EuCNC2017"
+title: "[@EuCNC2017](https://www.eucnc.eu/2017/www.eucnc.eu/)"
 excerpt: " <br/><img src='/images/myphotos/EuCNC_deng.jpg'>"
 collection: photos
 ---
