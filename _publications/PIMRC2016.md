@@ -1,7 +1,7 @@
 ---
 title: "Self-organizing networks for 5G: Directional cell search in mmW networks"
 collection: publications
-permalink: /publication/WCNC2018
+permalink: /publication/PIMRC2016
 date: 2016-09-04
 venue: '2016 IEEE 27th Annual International Symposium on Personal, Indoor, and Mobile Radio Communications (PIMRC)'
 paperurl: 'http://dengjunquan.github.io/files/PIMRC2016.pdf'
