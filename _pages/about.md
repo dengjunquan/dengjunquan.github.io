@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://dengjunquan.github.io/files/junquan_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://dengjunquan.github.io/images/Junquan_github.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
 * I am a Ph.D. student in the [Department of Communications and Networking](http://comnet.aalto.fi/en/) in [Aalto University](https://www.aalto.fi/) from Fall 2014, working with [prof. Olav Tirkkonen](http://users.comnet.aalto.fi/oltirkko/). 
