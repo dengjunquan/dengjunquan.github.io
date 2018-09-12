@@ -9,6 +9,6 @@ tags:
   - Python
 ---
 Here, We consider the Direction of Arrival (DoA) estimation using the Multiple Signal Classification (MUSIC) and Estimation of Signal Parameters via Rotational Invariance Technique (ESPRIT) algorithms. DoA estimation finds a lot of applications in wireless positioning,
-target trackin and MIMO channel estimation etc. MUSIC and ESPRIT are two popular techniques for such problems. ESPRIT is more computationally efficient than MUSIC. The code is available [here](https://github.com/dengjunquan/DoA-Estimation-MUSIC-ESPRIT).
+target tracking and MIMO channel estimation etc. MUSIC and ESPRIT are two popular techniques for such problems. ESPRIT is more computationally efficient than MUSIC. The code is available [here](https://github.com/dengjunquan/DoA-Estimation-MUSIC-ESPRIT).
 
 <img src='/images/blogimgs/DoAEst.png'>
