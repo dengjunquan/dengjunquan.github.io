@@ -19,5 +19,7 @@ wireless network data.
 
 
 # Recent News
+* I have my PhD theis defensed on 28 September, please check my thesis on [aaltodoc](https://aaltodoc.aalto.fi/handle/123456789/34031) and
+my [Lectio praecursoria]().
 * April 2018. A paper titled "MmWave channel estimation via atomic norm minimization for multi-user hybrid precoding" was presented on
 WCNC 2018, in Barcelona, Spain.
