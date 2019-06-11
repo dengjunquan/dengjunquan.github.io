@@ -13,7 +13,7 @@ redirect_from:
 </p>
 
 * I am a Ph.D. student in the [Department of Communications and Networking](http://comnet.aalto.fi/en/) in [Aalto University](https://www.aalto.fi/) from Fall 2014, working with [prof. Olav Tirkkonen](http://users.comnet.aalto.fi/oltirkko/). 
-* I received my Bachelor’s Degree in Automation from [Tsinghua University](http://www.tsinghua.edu.cn/publish/newthuen/) and my Master's Degree in Computer Science from [NUDT](http://www.nudt.edu.cn/index_eng.htm).
+* I received my Bachelor’s Degree in Automation from [Tsinghua University](http://www.tsinghua.edu.cn/publish/newthuen/) and my Master's Degree in Computer Science from [NUDT](https://www.nudt.edu.cn/szdw/index.htm).
 * My research interests lie in the millimeter wave communications, mobile relaying in 5G wireless networks, and machine learning with
 wireless network data.
 
