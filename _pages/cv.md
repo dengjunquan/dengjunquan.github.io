@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Automation , Tsinghua University, 2011
 * M.S. in Computer Science, NUDT, 2014
-* Ph.D in Information Theory, Aalto University, 2018 (expected)
+* Ph.D in Information Theory, Aalto University, 2018
 
 Work experience
 ======
