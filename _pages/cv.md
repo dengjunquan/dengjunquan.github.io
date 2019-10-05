@@ -17,7 +17,11 @@ Education
 
 Work experience
 ======
-* 2014.10 - now: Research Assistant
+* 2019.01 - now：Assistant research fellow
+  * National University of Defence Technology
+  * Spectrum management in 5G and 5G+ wireless systems
+  * RF sensing with multi-antenna systems
+* 2014.10 - 2018.10: Research Assistant
   * Aalto University
   * Duties included: research on 5G NR
   * Supervisor: Professor Olav Tirkkonen
@@ -59,6 +63,7 @@ Teaching
   
 Service 
 ======
+* Reviewer of IEEE Transactions on Vehicular Technology 
 * Reviewer of IEEE Transactions on Wireless Communications
 * Reviewer of IEEE Communication Magazine
 * Reviewer of IEEE Wireless Communications Magazine
