@@ -12,7 +12,7 @@ redirect_from:
   <img src="https://dengjunquan.github.io/images/Junquan_github.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
-* I am an Assistant research fellow at National University of Defence Technology since 2019.
+* I am an Associate research fellow at National University of Defence Technology since 2020.12.
 * I received my Ph.D. Degree in Information theory from [Department of Communications and Networking](http://comnet.aalto.fi/en/)  at [Aalto University](https://www.aalto.fi/) in September 2018, under the supervision of [prof. Olav Tirkkonen](http://users.comnet.aalto.fi/oltirkko/). 
 * I received my Bachelor’s Degree in Automation from [Tsinghua University](http://www.tsinghua.edu.cn/publish/newthuen/) and my Master's Degree in Computer Science from [NUDT](https://www.nudt.edu.cn/szdw/index.htm).
 * My research interests lie in the millimeter wave communications, mobile relaying in 5G wireless networks, and machine learning with
