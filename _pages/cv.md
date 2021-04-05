@@ -17,7 +17,12 @@ Education
 
 Work experience
 ======
-* 2019.01 - now：Assistant research fellow
+* 2020.12 - now: Associate research fellow
+  * National University of Defence Technology
+  * RF sensing with multi-antenna systems
+  * Localization in 6G
+  * Radio Resource Management in 6G
+* 2019.01 - 2020.12: Assistant research fellow
   * National University of Defence Technology
   * Spectrum management in 5G and 5G+ wireless systems
   * RF sensing with multi-antenna systems
