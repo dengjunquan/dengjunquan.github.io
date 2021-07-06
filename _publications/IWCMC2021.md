@@ -1,7 +1,7 @@
 ---
 title: "Network-side Localization via Semi-Supervised Multi-point Channel Charting"
 collection: publications
-permalink: /publication/IWCMC2021.pdf
+permalink: /publication/IWCMC2021
 date: 2021-07-01
 venue: 'The International Wireless Communications and Mobile Computing Conference (IWCMC 2021)'
 paperurl: 'http://dengjunquan.github.io/files/IWCMC2021'
